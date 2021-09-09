@@ -1,1 +1,2 @@
-https://fervent-einstein-678fe8.netlify.app 
+
+https://friendly-beaver-e407a3.netlify.app
